@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3q/64tzvpynygd2TBhJ3x2PLcey4Zn/FmmIUStnLyrEoBKp6o7GP0Z22Y+Fi2E548L9ENmZvuEdX3OEh3/aF7w==",
+  "dgSpecHash": "SXvJDHpLHxzxi/IF9O1YVdElnrPq7R0/WDG18EgPbXNd4GmVIgtdmgIqKChVDfsKkLIAddSRC5m/TuFjrlc3Jg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\talha\\OneDrive\\Masaüstü\\Github\\WebApp\\WebApp.asp\\WebApp\\WebApp\\WebApp.csproj",
+  "projectFilePath": "C:\\Users\\talha\\OneDrive\\Masaüstü\\Github\\Asp.net\\WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\talha\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\talha\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

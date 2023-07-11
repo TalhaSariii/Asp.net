@@ -2627,11 +2627,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\talha\\OneDrive\\Masaüstü\\Github\\WebApp\\WebApp.asp\\WebApp\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\talha\\OneDrive\\Masaüstü\\Github\\Asp.net\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "C:\\Users\\talha\\OneDrive\\Masaüstü\\Github\\WebApp\\WebApp.asp\\WebApp\\WebApp\\WebApp.csproj",
+      "projectPath": "C:\\Users\\talha\\OneDrive\\Masaüstü\\Github\\Asp.net\\WebApp.csproj",
       "packagesPath": "C:\\Users\\talha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\talha\\OneDrive\\Masaüstü\\Github\\WebApp\\WebApp.asp\\WebApp\\WebApp\\obj\\",
+      "outputPath": "C:\\Users\\talha\\OneDrive\\Masaüstü\\Github\\Asp.net\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\talha\\AppData\\Roaming\\NuGet\\NuGet.Config",
